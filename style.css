@@ -1,0 +1,27 @@
+h4{
+  color: #fff;
+}
+
+h2{
+  font-weight: bold;
+  font-family: serif;
+  color: goldenrod;
+}
+
+p{
+  color: #fff;
+}
+
+#reader {
+  width: 400px;
+}
+
+#list{
+  margin-left: 10%;
+}
+
+.logo{
+  margin-top: 20px;
+  height: 200px;
+  width: 450px;
+}
